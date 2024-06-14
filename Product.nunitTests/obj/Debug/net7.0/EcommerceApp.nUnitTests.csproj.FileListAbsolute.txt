@@ -103,3 +103,4 @@ C:\Users\sreej\source\repos\EcommerceApp\Product.nunitTests\obj\Debug\net7.0\ref
 C:\Users\sreej\source\repos\EcommerceApp\Product.nunitTests\obj\Debug\net7.0\EcommerceApp.nUnitTests.pdb
 C:\Users\sreej\source\repos\EcommerceApp\Product.nunitTests\obj\Debug\net7.0\EcommerceApp.nUnitTests.genruntimeconfig.cache
 C:\Users\sreej\source\repos\EcommerceApp\Product.nunitTests\obj\Debug\net7.0\ref\EcommerceApp.nUnitTests.dll
+C:\Users\sreej\source\repos\EcommerceApp\Product.nunitTests\obj\Debug\net7.0\EcommerceApp.nUnitTests.sourcelink.json
