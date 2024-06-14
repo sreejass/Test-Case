@@ -1,0 +1,14 @@
+C:\Users\sreej\source\repos\EcommerceApp\EcommerceApp\bin\Debug\net7.0\EcommerceApp.exe
+C:\Users\sreej\source\repos\EcommerceApp\EcommerceApp\bin\Debug\net7.0\EcommerceApp.deps.json
+C:\Users\sreej\source\repos\EcommerceApp\EcommerceApp\bin\Debug\net7.0\EcommerceApp.runtimeconfig.json
+C:\Users\sreej\source\repos\EcommerceApp\EcommerceApp\bin\Debug\net7.0\EcommerceApp.dll
+C:\Users\sreej\source\repos\EcommerceApp\EcommerceApp\bin\Debug\net7.0\EcommerceApp.pdb
+C:\Users\sreej\source\repos\EcommerceApp\EcommerceApp\obj\Debug\net7.0\EcommerceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreej\source\repos\EcommerceApp\EcommerceApp\obj\Debug\net7.0\EcommerceApp.AssemblyInfoInputs.cache
+C:\Users\sreej\source\repos\EcommerceApp\EcommerceApp\obj\Debug\net7.0\EcommerceApp.AssemblyInfo.cs
+C:\Users\sreej\source\repos\EcommerceApp\EcommerceApp\obj\Debug\net7.0\EcommerceApp.csproj.CoreCompileInputs.cache
+C:\Users\sreej\source\repos\EcommerceApp\EcommerceApp\obj\Debug\net7.0\EcommerceApp.dll
+C:\Users\sreej\source\repos\EcommerceApp\EcommerceApp\obj\Debug\net7.0\refint\EcommerceApp.dll
+C:\Users\sreej\source\repos\EcommerceApp\EcommerceApp\obj\Debug\net7.0\EcommerceApp.pdb
+C:\Users\sreej\source\repos\EcommerceApp\EcommerceApp\obj\Debug\net7.0\EcommerceApp.genruntimeconfig.cache
+C:\Users\sreej\source\repos\EcommerceApp\EcommerceApp\obj\Debug\net7.0\ref\EcommerceApp.dll
